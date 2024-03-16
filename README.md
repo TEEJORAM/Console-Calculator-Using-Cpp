@@ -1,8 +1,8 @@
 # Console Calculator in C++
 
-## Learning Source: Microsoft C++ Console App Tutorial
+## Learning Source: Microsoft C++ Console Calculator Tutorial
 
-Link: [Microsoft C++ Console App Tutorial](https://learn.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=msvc-170)
+Link: [Create a console calculator in C++](https://learn.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=msvc-170)
 
 This project implements a simple console-based calculator in C++.
 
@@ -19,6 +19,3 @@ This project implements a simple console-based calculator in C++.
 - **double**: Represents a data type supporting decimal numbers.
 - **switch statement**: Facilitates multiple execution paths based on the value of an expression.
 
-## Notes
-
-- Ensure to handle division by zero errors gracefully.
